@@ -74,6 +74,17 @@ body{
   transform: translate(-50%, -50%);
 
 }
+.Order-online{
+  height:200px;
+  width:200px;
+}
+
+.card-container{
+  border:2px solid;
+}
+
+
+
 
 .search-container{
 width:100%;
@@ -86,8 +97,8 @@ transform: translate(-50%, -50%);
 
 
 .flex-container{
-  height:200px;
-  width:200px;
+  height:250px;
+  width:250px;
   display:flex;
   flex-direction:row;
   justify-content:"space-around";
